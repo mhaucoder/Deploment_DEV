@@ -18,7 +18,7 @@ Register Server with information Database Server:
 
 #### Method 2: Use PgAdmin4 Dashboard on website
 
-Access URL `http://`[PgAdmin4 Address](#general-information)`/pgadmin4/browser/`
+Access URL: http://[PgAdmin4 Address IP](#general-information)/pgadmin4/browser/
 
 Login with information:
 
