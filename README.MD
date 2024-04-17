@@ -12,7 +12,8 @@
 
 #### Method 1: Use PgAdmin4 on your computer or software with database connection feature
 
-Register Server with information Database Server:
+Register Server with information Database Server\
+Note: Enter Host name/Address like Address IP [Database](#general-information)
 
 ![alt text](images/image-3.png)
 
@@ -25,7 +26,8 @@ Login with information:
 > Email: devadmin@dev123.email \
 > Password: dev@123
 
-Register Server with information Database Server:
+Register Server with information Database Server\
+Note: Enter Host name/Address like Address IP [Database](#general-information)
 
 ![alt text](images/image-3.png)
 
